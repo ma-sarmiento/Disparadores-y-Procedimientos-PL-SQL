@@ -5,10 +5,6 @@ El trabajo consiste en reforzar la lógica operativa de una base de datos existe
 
 ---
 
-> Nota: Aunque GitHub clasifica el repositorio como PLSQL por la extensión, el contenido corresponde principalmente a SQL estándar y consultas en Oracle.
-> 
----
-
 ## 📌 Objetivo General
 
 Implementar una capa de lógica de negocio en Oracle Database que complemente el modelo relacional entregado, mediante la programación de **PL/SQL** para asegurar:
