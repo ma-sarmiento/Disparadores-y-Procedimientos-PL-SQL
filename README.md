@@ -28,7 +28,12 @@ Disparadores-y-Procedimientos-PL-SQL/
 ```
 ---
 
+# 📊 Estado del proyecto
 
+Este proyecto se revisó y reorganizó para su publicación en GitHub con fines académicos y de portafolio personal.
+Los scripts fueron probados en OracleXE - Oracle Live y funcionan de forma independiente
+
+---
 
 # 🟦 1. Funcionalidades iniciales Implementadas
 
